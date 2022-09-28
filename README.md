@@ -2,5 +2,5 @@ Welcome to my Github! Quick notes here:
 -  My name is Alvaro Carbonero. Nice to meet you.
 -  I have a bachelor's degree in mathematics, and soon I will have a master's degree in mathematics as well.
 -  For the past several months, I've dedicated myself to transitioning from a career in academia as a graph theorist to a career industry/national labs as an ML engineer/researcher. 
--  This fall, I paused my master's degree to do an internship with the Renewable Energy National Lab.
+-  This fall, I paused my master's degree to do an internship with the National Renewable Energy Lab.
 -  For more details about myself, check out my resume [here](https://docs.google.com/document/d/1b-X2ggAlDlOd4M0f90gWyL5gRfu73c8IWK8mp2eolww/edit?usp=sharing).
